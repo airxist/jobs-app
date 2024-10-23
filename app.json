@@ -8,6 +8,20 @@
       "expo-router"
     ],
     "name": "my-expo-app",
-    "slug": "my-expo-app"
+    "slug": "airxist-jobs-app",
+    "extra": {
+      "eas": {
+        "projectId": "0a1a88b2-23d9-44fd-9e48-06c8ca414247"
+      }
+    },
+    "owner": "airxist",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/0a1a88b2-23d9-44fd-9e48-06c8ca414247"
+    },
+    "android": {},
+    "ios": {}
   }
 }

@@ -1,0 +1,912 @@
+[
+  {
+    "job_id": "u2M-mJptfqG6XkvNAAAAAA==",
+    "employer_name": "BravoTECH",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5E8ep_o4-I80E7vjzTZMSgMb-0ntXtbv-ixPE&s=0",
+    "employer_website": null,
+    "employer_company_type": null,
+    "employer_linkedin": null,
+    "job_publisher": "LinkedIn",
+    "job_employment_type": "FULLTIME",
+    "job_title": ".Net/React Developer- MUST BE LOCAL TO DALLAS, TX",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/net-react-developer-must-be-local-to-dallas-tx-at-bravotech-4056229373?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.6318,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/net-react-developer-must-be-local-to-dallas-tx-at-bravotech-4056229373?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "This role doesn't accept c2c candidates or candidates that need sponsorship now or in the future- meaning no h1b/cpt/opt. only US Citizen or GC\n\nHybrid in Irving, TX\n\nWe are seeking a skilled .NET/React Developer to join our dynamic development team. The ideal candidate will have strong experience in both backend development using .NET Core and frontend development with React.js. You will be responsible for designing, developing, and maintaining efficient, reusable, and reliable code, as well as collaborating with cross-functional teams to deliver high-quality software solutions.\n\nKey Responsibilities:\n• Design and implement backend services and APIs using .NET Core.\n• Develop and maintain modern, responsive user interfaces using React.js.\n• Work closely with product owners and stakeholders to define project requirements and timelines.\n• Participate in full software development life cycle (SDLC) including requirements, development, testing, and deployment.\n• Optimize applications for maximum speed, performance, and scalability.\n• Write clean, maintainable, and well-documented code.\n• Collaborate with QA teams to ensure robust testing and smooth deployment.\n• Stay up to date with the latest industry trends and technologies to ensure innovative solutions.\n\nRequired Skills:\n• 3+ years of experience with .NET Core development.\n• 2+ years of experience with React.js\n• Experience with Azure cloud environment.\n• Proficiency with C#, ASP.NET, and MVC architecture.\n\nPreferred:\n• Experience in building and consuming RESTful APIs.\n• Strong understanding of HTML5, CSS3, and JavaScript (ES6/ES7).\n• Knowledge of database management systems (e.g., SQL Server, PostgreSQL).\n• Experience with Git for version control and collaboration.",
+    "job_is_remote": false,
+    "job_posted_at_timestamp": 1729633877,
+    "job_posted_at_datetime_utc": "2024-10-22T21:51:17.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 38.794594,
+    "job_longitude": -106.534836,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&udm=8#vhid=vt%3D20/docid%3Du2M-mJptfqG6XkvNAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_offer_expiration_datetime_utc": "2024-11-21T21:51:17.000Z",
+    "job_offer_expiration_timestamp": 1732225877,
+    "job_required_experience": {
+      "no_experience_required": "false",
+      "required_experience_in_months": "36",
+      "experience_mentioned": "true",
+      "experience_preferred": "false"
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": "false",
+      "professional_certification": "false",
+      "high_school": "false",
+      "associates_degree": "false",
+      "bachelors_degree": "true",
+      "degree_mentioned": "false",
+      "degree_preferred": "false",
+      "professional_certification_mentioned": "false"
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "The ideal candidate will have strong experience in both backend development using .NET Core and frontend development with React.js",
+        "3+ years of experience with .NET Core development",
+        "2+ years of experience with React.js",
+        "Experience with Azure cloud environment",
+        "Proficiency with C#, ASP.NET, and MVC architecture"
+      ],
+      "Responsibilities": [
+        "You will be responsible for designing, developing, and maintaining efficient, reusable, and reliable code, as well as collaborating with cross-functional teams to deliver high-quality software solutions",
+        "Design and implement backend services and APIs using .NET Core",
+        "Develop and maintain modern, responsive user interfaces using React.js",
+        "Work closely with product owners and stakeholders to define project requirements and timelines",
+        "Participate in full software development life cycle (SDLC) including requirements, development, testing, and deployment",
+        "Optimize applications for maximum speed, performance, and scalability",
+        "Write clean, maintainable, and well-documented code",
+        "Collaborate with QA teams to ensure robust testing and smooth deployment",
+        "Stay up to date with the latest industry trends and technologies to ensure innovative solutions"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "job_occupational_categories": null,
+    "job_naics_code": null,
+    "job_naics_name": null
+  },
+  {
+    "job_id": "vPLOa3KzqExVYAcnAAAAAA==",
+    "employer_name": "APN Consulting Inc",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6KbD0mk4Xb5KtStTqYthRKDYcSnlgcvSOMLII&s=0",
+    "employer_website": "https://www.apnconsultinginc.com",
+    "employer_company_type": null,
+    "employer_linkedin": null,
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "FULLTIME",
+    "job_title": "React Developer",
+    "job_apply_link": "https://www.ziprecruiter.com/c/APN-Consulting-Inc/Job/React-Developer/-in-Dallas,TX?jid=389a754f2bddf7e3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "job_apply_quality_score": 0.6254,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/APN-Consulting-Inc/Job/React-Developer/-in-Dallas,TX?jid=389a754f2bddf7e3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=0874e213de13&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/bd9f252342e46071adcb79a1f8b21e47?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Learn4Good",
+        "apply_link": "https://www.learn4good.com/jobs/dallas/texas/software_development/3676361064/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "APN Consulting has an immediate need for a direct client requirement:\n\nJob Title : React Developer\nLocation: Dallas, TX\nDuration : 12 Plus Months\n\nJob Description: We are seeking a skilled Frontend Developer with expertise in React and TypeScript to join our dynamic team. The ideal candidate will have a passion for building user-friendly and efficient web applications. You will collaborate with designers and backend developers to create seamless user experiences.\n\nKey Responsibilities:\n• Develop and maintain responsive web applications using React and TypeScript.\n• Implement state management and component lifecycle methods effectively using React Hooks.\n• Collaborate with UX/UI designers to translate design wireframes into high-quality code.\n• Optimize applications for maximum speed and scalability.\n• Write unit and integration tests to ensure code quality and reliability.\n• Work closely with backend developers to integrate APIs and improve overall application performance.\n\nMust-Have Skills:\n• 5 Plus years of strong experience in React and React Hooks.\n• 4 Plus years of solid experience with TypeScript.\n• Ability to write clean, maintainable, and well-documented code.\n\nGood to Have Skills:\n• Familiarity with React Query and React Router for state management and routing.\n• Experience with testing frameworks such as Jest and Cypress.\n• Knowledge of MSW (Mock Service Worker) for API mocking.\n• Understanding of Webpack for module bundling and optimization.\n• Experience with GraphQL for API interaction.\n• Familiarity with Axis for HTTP requests.\n\nQualifications:\n• Bachelor's degree in Computer Science, Software Engineering, or a related field (or equivalent experience).\n• Proven experience in frontend development, particularly with React and TypeScript.\n• Strong problem-solving skills and ability to work independently as well as part of a team.",
+    "job_is_remote": false,
+    "job_posted_at_timestamp": 1729632512,
+    "job_posted_at_datetime_utc": "2024-10-22T21:28:32.000Z",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_country": "US",
+    "job_latitude": 32.776665,
+    "job_longitude": -96.79699,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&udm=8#vhid=vt%3D20/docid%3DvPLOa3KzqExVYAcnAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_offer_expiration_datetime_utc": "2024-11-21T00:00:00.000Z",
+    "job_offer_expiration_timestamp": 1732147200,
+    "job_required_experience": {
+      "no_experience_required": "false",
+      "required_experience_in_months": "60",
+      "experience_mentioned": "true",
+      "experience_preferred": "false"
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": false,
+      "degree_mentioned": "true",
+      "degree_preferred": "true",
+      "professional_certification_mentioned": "false"
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "The ideal candidate will have a passion for building user-friendly and efficient web applications",
+        "5 Plus years of strong experience in React and React Hooks",
+        "4 Plus years of solid experience with TypeScript",
+        "Ability to write clean, maintainable, and well-documented code",
+        "Familiarity with React Query and React Router for state management and routing",
+        "Experience with testing frameworks such as Jest and Cypress",
+        "Knowledge of MSW (Mock Service Worker) for API mocking",
+        "Understanding of Webpack for module bundling and optimization",
+        "Experience with GraphQL for API interaction",
+        "Familiarity with Axis for HTTP requests",
+        "Bachelor's degree in Computer Science, Software Engineering, or a related field (or equivalent experience)",
+        "Proven experience in frontend development, particularly with React and TypeScript",
+        "Strong problem-solving skills and ability to work independently as well as part of a team"
+      ],
+      "Responsibilities": [
+        "You will collaborate with designers and backend developers to create seamless user experiences",
+        "Develop and maintain responsive web applications using React and TypeScript",
+        "Implement state management and component lifecycle methods effectively using React Hooks",
+        "Collaborate with UX/UI designers to translate design wireframes into high-quality code",
+        "Optimize applications for maximum speed and scalability",
+        "Write unit and integration tests to ensure code quality and reliability",
+        "Work closely with backend developers to integrate APIs and improve overall application performance"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "job_occupational_categories": ["15-1134.00: Web Developers"],
+    "job_naics_code": null,
+    "job_naics_name": null
+  },
+  {
+    "job_id": "88fhovr7e03FvcYOAAAAAA==",
+    "employer_name": "Turing.com",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTueXR0rzSC4PPRFY06j57Xm42ngtOlYTVqvbX9&s=0",
+    "employer_website": null,
+    "employer_company_type": null,
+    "employer_linkedin": null,
+    "job_publisher": "Turing",
+    "job_employment_type": "FULLTIME",
+    "job_title": "Remote React.js Developer Jobs",
+    "job_apply_link": "https://www.turing.com/jobs/remote-react-js-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.7861,
+    "apply_options": [
+      {
+        "publisher": "Turing",
+        "apply_link": "https://www.turing.com/jobs/remote-react-js-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/java-full-stack-developer-remote-at-synergisticit-4052600752?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobgether",
+        "apply_link": "https://jobgether.com/offer/6708517d11e1c8f12d4a4cf5-senior-.net-developer-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "USA Remote Jobs",
+        "apply_link": "https://jobtwigo.com/job/remote-react-js-developer-jobs-4/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Iremote.grstudy1",
+        "apply_link": "https://iremote.grstudy1.com/job/remote-react-js-developer-jobs/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Talentify",
+        "apply_link": "https://www.talentify.io/job/net-developer-2-remote-washington-district-of-columbia-wex-r15460?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "USA Remote Job Mysmartpros",
+        "apply_link": "https://remote.mysmartpros.com/jobs/remote-react-js-developer-jobs/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Remote Jobs In USA",
+        "apply_link": "https://remotejobs.trendingnewsgo.com/job/remote-react-js-developer-jobs-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "About the role:\nWork from home with top U.S. software companies and earn in U.S. dollars. At Turing, we are looking for React.js developers who will be responsible for the entire web development process and deliver highly scalable, customer-centric, and performant web applications.\n\nAbout Turing.com:\nTuring’s mission is to unleash the world’s untapped human potential. We use AI to source, evaluate, hire, onboard, and manage engineers remotely (including the HR and compliance aspects) in a bigger platform that we call the “Talent Cloud”.\n\nWe recently achieved unicorn status with a valuation of $1.1B, after raising over $140M in financing over four rounds of funding. 900+ companies including companies like Johnson & Johnson, Pepsi, Dell, Disney +, and Coinbase have hired Turing developers.\n\nResponsibilities:\n- Design & build scalable APIs by writing clean, efficient, and reusable code\n- Create components, and implement pages and flows designed using UI/UX designers\n- Develop highly efficient user interface components\n- Contribute or suggest new initiatives to help your team make innovative choices\n- Design, develop, review & test apps in collaboration with cross-functional teams\n- Analyze, control, and improve the quality of the code\n\nRequirements:\n- Bachelor’s/Master’s degree in Computer Science (or equivalent experience)\n- 3+ years of web development experience (rare exceptions for highly skilled candidates)\n- Proficiency in React.js, JavaScript, HTML, and CSS\n- Experience with REST APIs, third-party libraries & full life cycle of web development\n- Fluency in English to collaborate with engineering managers\n- Work full-time (40 hours/week) with a 4-hour overlap with US time zones\n- Ability to write clean, reliable, and highly maintainable code\n\nPreferred skills:\n- Experience in cross-browser compatibility and the responsive design of applications\n- Proficient understanding of code versioning tools, such as Git\n- Expert understanding of server-side logic and front-end performance optimization\n- Experience in Unix/Linux environments, including basic commands and scripting\n- Experience with project management and working directly with clients\n- Experience writing unit test cases will be an advantage\n\nWhat we offer:\n- Elite U.S. Jobs\n- Long-term, full-time opportunities\n- Flexibility to work from anywhere in the world\n- Better compensation\n- Career growth\n- Exclusive Developer Community\n- Upskilling workshops\n- Career development sessions\n- Networking meetups\n- Referral programs\n\nOnce you join Turing, you'll never have to apply for another job!",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1728691200,
+    "job_posted_at_datetime_utc": "2024-10-12T00:00:00.000Z",
+    "job_city": "Palo Alto",
+    "job_state": "CA",
+    "job_country": "US",
+    "job_latitude": 37.45306,
+    "job_longitude": -122.11327,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&udm=8#vhid=vt%3D20/docid%3D88fhovr7e03FvcYOAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_offer_expiration_datetime_utc": "2024-10-31T00:00:00.000Z",
+    "job_offer_expiration_timestamp": 1730332800,
+    "job_required_experience": {
+      "no_experience_required": "false",
+      "required_experience_in_months": "36",
+      "experience_mentioned": "true",
+      "experience_preferred": "false"
+    },
+    "job_required_skills": ["React.js", "HTML", "JavaScript", "CSS"],
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": false,
+      "degree_mentioned": "true",
+      "degree_preferred": "true",
+      "professional_certification_mentioned": "false"
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Bachelor’s/Master’s degree in Computer Science (or equivalent experience)",
+        "3+ years of web development experience (rare exceptions for highly skilled candidates)",
+        "Proficiency in React.js, JavaScript, HTML, and CSS",
+        "Experience with REST APIs, third-party libraries & full life cycle of web development",
+        "Fluency in English to collaborate with engineering managers",
+        "Work full-time (40 hours/week) with a 4-hour overlap with US time zones",
+        "Ability to write clean, reliable, and highly maintainable code"
+      ],
+      "Responsibilities": [
+        "Design & build scalable APIs by writing clean, efficient, and reusable code",
+        "Create components, and implement pages and flows designed using UI/UX designers",
+        "Develop highly efficient user interface components",
+        "Contribute or suggest new initiatives to help your team make innovative choices",
+        "Design, develop, review & test apps in collaboration with cross-functional teams",
+        "Analyze, control, and improve the quality of the code"
+      ],
+      "Benefits": [
+        "Elite U.S. Jobs",
+        "Long-term, full-time opportunities",
+        "Flexibility to work from anywhere in the world",
+        "Better compensation",
+        "Career growth",
+        "Exclusive Developer Community",
+        "Upskilling workshops",
+        "Career development sessions",
+        "Networking meetups",
+        "Referral programs"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "job_occupational_categories": null,
+    "job_naics_code": null,
+    "job_naics_name": null
+  },
+  {
+    "job_id": "EVpow64cN79PB45qAAAAAA==",
+    "employer_name": "DRS IT Solutions Inc",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjW4EJnPyZhyQXed4BhXZvmEokMWBvUDmow8LB&s=0",
+    "employer_website": "http://www.drsitsolutions.com",
+    "employer_company_type": null,
+    "employer_linkedin": null,
+    "job_publisher": "LinkedIn",
+    "job_employment_type": "CONTRACTOR",
+    "job_title": "Programmer - React Developer",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/programmer-react-developer-at-drs-it-solutions-inc-4056901018?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.6379,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/programmer-react-developer-at-drs-it-solutions-inc-4056901018?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Ladders",
+        "apply_link": "https://www.theladders.com/job/application-developer-senior-htc-lansing-mi_76692152?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "This role is not open for C2C. Ideal for W2/1099 Contracts only\n\nCandidate must be local to Michigan\n\nThis resource position will be supporting the MDOT Development program. As a frontend developer, responsibilities include but not limited to working with development project teams, UI/UX designers and Business analysts to develop and maintain reusable UI components that are accessible, performant, scalable, and robust. Must be familiar with WCAG 2.1, ADA compliance and responsive design. All development will be tested by the developer for accessibility using Jaws reader along with multiple browser plugins.\n\nStrong background with React.js. Required, 5 years.\n\nExperience with HTML5 and CSS Frameworks. Required, 5 Years.\n\nStrong knowledge and background with ADA, WCAG 2.1, Section 508 compliance policies, User Experience design principles and standards. Required, 5 years.\n\nExperience with current JAVA, this includes using relevant IDE tools such as Eclipse/Jboss Developer Studio. Required, 3 Years.\n\nExperience programming in projects using JPA framework. Required, 2 Years.\n\nExperience programming in projects using current Spring framework. Required, 2 Years.\n\nExperience programming with Spring Boot and Spring Data. Required, 2 Years.\n\nExperience programming with Java 8+. Required, 3 Years.\n\nExperience participating as a programmer within an Agile development environment. Required, 2 Years.\n\nExperience programming in the JBOSS Enterprise environment. Desired, 2 Years\n\nBest Regards,\n\nNisha Miriam George,\n\nDRS IT Solutions, Inc\n\n28175 Haggerty Road,\n\nNovi, MI 48377\n\n(C) 248-440-7600 EXT -3\n\n(F) 248-859-4430\n\nhttps://www.linkedin.com/in/nisha-george-0a7b39206/\n\nnisha@drsitsolutions.com\n\nwww.drsitsolutions.com\n\nAn E-Verified Company\n\nCertified Women Business Enterprise (WBENC) Certified Women Owned Small Business (WOSB)",
+    "job_is_remote": false,
+    "job_posted_at_timestamp": 1729603324,
+    "job_posted_at_datetime_utc": "2024-10-22T13:22:04.000Z",
+    "job_city": "Lansing",
+    "job_state": "MI",
+    "job_country": "US",
+    "job_latitude": 42.732536,
+    "job_longitude": -84.555534,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&udm=8#vhid=vt%3D20/docid%3DEVpow64cN79PB45qAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_offer_expiration_datetime_utc": "2024-11-21T13:22:04.000Z",
+    "job_offer_expiration_timestamp": 1732195324,
+    "job_required_experience": {
+      "no_experience_required": "false",
+      "required_experience_in_months": "60",
+      "experience_mentioned": "true",
+      "experience_preferred": "false"
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": "false",
+      "professional_certification": "false",
+      "high_school": "false",
+      "associates_degree": "false",
+      "bachelors_degree": "true",
+      "degree_mentioned": "false",
+      "degree_preferred": "false",
+      "professional_certification_mentioned": "false"
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Must be familiar with WCAG 2.1, ADA compliance and responsive design",
+        "All development will be tested by the developer for accessibility using Jaws reader along with multiple browser plugins",
+        "Required, 5 years",
+        "Experience with HTML5 and CSS Frameworks",
+        "Strong knowledge and background with ADA, WCAG 2.1, Section 508 compliance policies, User Experience design principles and standards",
+        "Experience with current JAVA, this includes using relevant IDE tools such as Eclipse/Jboss Developer Studio",
+        "Required, 3 Years",
+        "Required, 2 Years",
+        "Experience programming in projects using current Spring framework",
+        "Experience programming with Spring Boot and Spring Data",
+        "Experience programming with Java 8+",
+        "Experience participating as a programmer within an Agile development environment",
+        "Experience programming in the JBOSS Enterprise environment"
+      ],
+      "Responsibilities": [
+        "As a frontend developer, responsibilities include but not limited to working with development project teams, UI/UX designers and Business analysts to develop and maintain reusable UI components that are accessible, performant, scalable, and robust"
+      ]
+    },
+    "job_job_title": "Programmer",
+    "job_posting_language": "en",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "job_occupational_categories": null,
+    "job_naics_code": null,
+    "job_naics_name": null
+  },
+  {
+    "job_id": "I0fMByiQdlkG_rUFAAAAAA==",
+    "employer_name": "Upwork",
+    "employer_logo": null,
+    "employer_website": null,
+    "employer_company_type": null,
+    "employer_linkedin": null,
+    "job_publisher": "Upwork",
+    "job_employment_type": "CONTRACTOR",
+    "job_title": "Front End React Developer Needed for Exciting Project",
+    "job_apply_link": "https://www.upwork.com/en-gb/freelance-jobs/apply/Front-End-React-Developer-Needed-for-Exciting-Project_~021848182957641676271/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "job_apply_quality_score": 0.7776,
+    "apply_options": [
+      {
+        "publisher": "Upwork",
+        "apply_link": "https://www.upwork.com/en-gb/freelance-jobs/apply/Front-End-React-Developer-Needed-for-Exciting-Project_~021848182957641676271/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      }
+    ],
+    "job_description": "We are seeking a talented Front End React Developer to join our team for an exciting project. The ideal candidate will have strong experience with React and be able to create responsive, user-friendly web applications. You will work closely with our design and back-end teams to implement visually appealing and high-performing applications. A passion for clean code and best practices is essential. If you're ready to contribute your skills and grow with our team, we'd love to hear from you!",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1729476129,
+    "job_posted_at_datetime_utc": "2024-10-21T02:02:09.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 38.794594,
+    "job_longitude": -106.534836,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&udm=8#vhid=vt%3D20/docid%3DI0fMByiQdlkG_rUFAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_offer_expiration_datetime_utc": null,
+    "job_offer_expiration_timestamp": null,
+    "job_required_experience": {
+      "no_experience_required": "false",
+      "required_experience_in_months": null,
+      "experience_mentioned": "true",
+      "experience_preferred": "false"
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": false,
+      "degree_mentioned": "false",
+      "degree_preferred": "false",
+      "professional_certification_mentioned": "false"
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": 5,
+    "job_max_salary": 10,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "The ideal candidate will have strong experience with React and be able to create responsive, user-friendly web applications",
+        "A passion for clean code and best practices is essential"
+      ],
+      "Responsibilities": [
+        "You will work closely with our design and back-end teams to implement visually appealing and high-performing applications"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "job_occupational_categories": null,
+    "job_naics_code": null,
+    "job_naics_name": null
+  },
+  {
+    "job_id": "W-RFl5cQQztYz40rAAAAAA==",
+    "employer_name": "Metasoft LLC",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ54sZb5gn8i_brqnCdrBxFXhPChClVT-whAPd5&s=0",
+    "employer_website": null,
+    "employer_company_type": null,
+    "employer_linkedin": null,
+    "job_publisher": "Glassdoor",
+    "job_employment_type": "FULLTIME",
+    "job_title": "React JS Developer",
+    "job_apply_link": "https://www.glassdoor.com/job-listing/react-js-developer-metasoft-llc-JV_IC1143031_KO0,18_KE19,31.htm?jl=1009493842401&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "job_apply_quality_score": 0.6607,
+    "apply_options": [
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/react-js-developer-metasoft-llc-JV_IC1143031_KO0,18_KE19,31.htm?jl=1009493842401&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Dice.com",
+        "apply_link": "https://www.dice.com/job-detail/da2fab0b-1f7d-484a-82a1-e00316e0fc95?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "React Jobs",
+        "apply_link": "https://reactjsjob.com/job/2nXCMZLfvqysyPcvGnMIgzEqBmU/React%20JS%20Developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Job Title: React Developer with Spark, Scala, Airflow, and GCP Experience with 6+ years of experience\n\nLocation: Bentonville AR\n\nJob Type: Full-time/Contract/Hybrid\n\nPosition Overview:\n\nWe are seeking a highly skilled React Developer with experience in big data technologies, including Spark (not PySpark), Scala, Airflow DAGs, and Google Cloud Platform (GCP). The ideal candidate will have a unique combination of front-end expertise with React.js and backend knowledge, particularly in distributed computing and cloud-based environments. You will be responsible for building scalable web applications while working closely with data engineering teams to manage and optimize data pipelines.\n\nEligibility:\n\nMust have work authorization to work in the US.\n\nAccept OPT, CPT, EAD, GC or US Citizens only.\n\nNo C2C or H1B sponsorship for this position.\n\nHire Type - Only W2.\n\nDuration - 12+ Months (Possibly extends further)\n\nNumber of Positions - 2\n\nJob Types: Full-time, Contract\n\nPay: Up to $45.00 per hour\n\nJob Types: Full-time, Contract\n\nPay: $40.00 - $50.00 per hour\n\nExpected hours: 40 per week\n\nBenefits:\n• Dental insurance\n• Health insurance\n• Paid time off\n\nSchedule:\n• Weekends only\n\nApplication Question(s):\n• Please specify expected rate and work authorization status\n\nExperience:\n• React: 5 years (Required)\n• UI development: 5 years (Preferred)\n\nWork Location: Hybrid remote in Bentonville, AR 72712",
+    "job_is_remote": false,
+    "job_posted_at_timestamp": 1729296000,
+    "job_posted_at_datetime_utc": "2024-10-19T00:00:00.000Z",
+    "job_city": "Bentonville",
+    "job_state": "AR",
+    "job_country": "US",
+    "job_latitude": 36.372356,
+    "job_longitude": -94.21021,
+    "job_benefits": ["dental_coverage", "health_insurance", "paid_time_off"],
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&udm=8#vhid=vt%3D20/docid%3DW-RFl5cQQztYz40rAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_offer_expiration_datetime_utc": "2025-02-17T00:00:00.000Z",
+    "job_offer_expiration_timestamp": 1739750400,
+    "job_required_experience": {
+      "no_experience_required": "false",
+      "required_experience_in_months": "72",
+      "experience_mentioned": "true",
+      "experience_preferred": "false"
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": false,
+      "degree_mentioned": "false",
+      "degree_preferred": "false",
+      "professional_certification_mentioned": "false"
+    },
+    "job_experience_in_place_of_education": "false",
+    "job_min_salary": 40,
+    "job_max_salary": 50,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "The ideal candidate will have a unique combination of front-end expertise with React.js and backend knowledge, particularly in distributed computing and cloud-based environments",
+        "Must have work authorization to work in the US",
+        "Accept OPT, CPT, EAD, GC or US Citizens only",
+        "React: 5 years (Required)"
+      ],
+      "Responsibilities": [
+        "You will be responsible for building scalable web applications while working closely with data engineering teams to manage and optimize data pipelines"
+      ],
+      "Benefits": [
+        "Pay: Up to $45.00 per hour",
+        "Pay: $40.00 - $50.00 per hour",
+        "Expected hours: 40 per week",
+        "Dental insurance",
+        "Health insurance",
+        "Paid time off"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "job_occupational_categories": null,
+    "job_naics_code": null,
+    "job_naics_name": null
+  },
+  {
+    "job_id": "D2HXo6wqZlzgobRFAAAAAA==",
+    "employer_name": "cyberThink, Inc.",
+    "employer_logo": "https://cyberthink.com/wp-content/uploads/2024/03/Cyber-Think-Logo.svg",
+    "employer_website": "http://www.cyberthink.com",
+    "employer_company_type": "Staffing",
+    "employer_linkedin": null,
+    "job_publisher": "Dice.com",
+    "job_employment_type": "CONTRACTOR",
+    "job_title": "React JS Developer",
+    "job_apply_link": "https://www.dice.com/job-detail/567a8eb9-4321-4096-b35b-998aef6519e1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "job_apply_quality_score": 0.5631,
+    "apply_options": [
+      {
+        "publisher": "Dice.com",
+        "apply_link": "https://www.dice.com/job-detail/567a8eb9-4321-4096-b35b-998aef6519e1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "React Jobs",
+        "apply_link": "https://reactjsjob.com/job/2nnjxI5PLhoWsqxQEKGKqEDIcHE/React%20JS%20Developer%20(Reactjs)?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Qualifications\n• 4+ Years of Front-end design/development for the web , ready to led small UI team also interact the business .\n• Use Responsive Web Design (RWD) techniques in web development: review mocks, bring them to life on desktop and connected devices\n• Experience building multi-platform web sites using Responsive Web Design/ RWD (media queries, progressive enhancement, feature detection and etc.)\n\nfront-end work they do with Java Script, CSS3, HTML5, jQuery ,ReactJS and NodeJS is for a Java-based web application\n• Develop interactive components using JavaScript and jQuery, integrate with internal tools, frameworks and services as well as external APIs Collaborate with back-end developers, editors, and external agencies\n• Translate UI designs into well organized and structured HTML5/CSS3 compatible with modern browsers, and use open source tools & frameworks to improve the structure and maintainability of the front-end code where possible\n• Design user interfaces with a modern and clean aesthetic which focus on delivering intuitive & enjoyable user experiences\n• Create wireframes to illustrate high-level solutions to an application and feature requests\n• Intricate knowledge and experience with responsive design and its implementation nuances will be essential in this role\n• BS/BA or higher in Computer Science, Graphic Design, Interactive Design and/or equivalent experience is required\n• Experience with designing and building REST APIs\n• Experience with front-end knowledge: HTML5, CSS3, JavaScript(ex: Angular)\n• Experience with multiple O/S's: Windows, UNIX/Linux platforms.\n• BS/BA or higher in Computer Science or related field\n• Android/iOS experience a plus\n• Goal oriented and self-motivated.\n• Candidate must have the ability to work independently or within a team environment.\n• Strong oral and written communications skills with ability to create software design and engineering documents.\n• Ability to multi-task and deliver high quality work under tight deadlines is essential.\n• Ability to work in a fast paced environment is crucial.\n• Ability to learn, excel and deliver at a quick pace is required.",
+    "job_is_remote": false,
+    "job_posted_at_timestamp": 1729607152,
+    "job_posted_at_datetime_utc": "2024-10-22T14:25:52.000Z",
+    "job_city": "Ridgefield Park",
+    "job_state": "NJ",
+    "job_country": "US",
+    "job_latitude": 40.857044,
+    "job_longitude": -74.02153,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&udm=8#vhid=vt%3D20/docid%3DD2HXo6wqZlzgobRFAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_offer_expiration_datetime_utc": "2024-11-22T15:25:52.000Z",
+    "job_offer_expiration_timestamp": 1732289152,
+    "job_required_experience": {
+      "no_experience_required": "false",
+      "required_experience_in_months": null,
+      "experience_mentioned": "true",
+      "experience_preferred": "true"
+    },
+    "job_required_skills": ["React", "Angular", "JavaScript"],
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": false,
+      "degree_mentioned": "true",
+      "degree_preferred": "true",
+      "professional_certification_mentioned": "false"
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": 45,
+    "job_max_salary": 47,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "4+ Years of Front-end design/development for the web , ready to led small UI team also interact the business ",
+        "Use Responsive Web Design (RWD) techniques in web development: review mocks, bring them to life on desktop and connected devices",
+        "Experience building multi-platform web sites using Responsive Web Design/ RWD (media queries, progressive enhancement, feature detection and etc.)",
+        "front-end work they do with Java Script, CSS3, HTML5, jQuery ,ReactJS and NodeJS is for a Java-based web application",
+        "BS/BA or higher in Computer Science, Graphic Design, Interactive Design and/or equivalent experience is required",
+        "Experience with designing and building REST APIs",
+        "Experience with front-end knowledge: HTML5, CSS3, JavaScript(ex: Angular)",
+        "Experience with multiple O/S's: Windows, UNIX/Linux platforms",
+        "BS/BA or higher in Computer Science or related field",
+        "Goal oriented and self-motivated",
+        "Candidate must have the ability to work independently or within a team environment",
+        "Strong oral and written communications skills with ability to create software design and engineering documents",
+        "Ability to multi-task and deliver high quality work under tight deadlines is essential",
+        "Ability to work in a fast paced environment is crucial",
+        "Ability to learn, excel and deliver at a quick pace is required"
+      ],
+      "Responsibilities": [
+        "Develop interactive components using JavaScript and jQuery, integrate with internal tools, frameworks and services as well as external APIs Collaborate with back-end developers, editors, and external agencies",
+        "Translate UI designs into well organized and structured HTML5/CSS3 compatible with modern browsers, and use open source tools & frameworks to improve the structure and maintainability of the front-end code where possible",
+        "Design user interfaces with a modern and clean aesthetic which focus on delivering intuitive & enjoyable user experiences",
+        "Create wireframes to illustrate high-level solutions to an application and feature requests",
+        "Intricate knowledge and experience with responsive design and its implementation nuances will be essential in this role"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "job_occupational_categories": null,
+    "job_naics_code": "561311",
+    "job_naics_name": "Employment Placement Agencies"
+  },
+  {
+    "job_id": "A-dfzHiYVCRxbmJdAAAAAA==",
+    "employer_name": "AIT Global inc.",
+    "employer_logo": null,
+    "employer_website": "http://www.aitglobalinc.com",
+    "employer_company_type": null,
+    "employer_linkedin": null,
+    "job_publisher": "Adzuna",
+    "job_employment_type": "FULLTIME",
+    "job_title": "ReactJS Developer",
+    "job_apply_link": "https://www.adzuna.com/details/4910752818?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "job_apply_quality_score": 0.5059,
+    "apply_options": [
+      {
+        "publisher": "Adzuna",
+        "apply_link": "https://www.adzuna.com/details/4910752818?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      }
+    ],
+    "job_description": "Job Title: ReactJS Developer\nLocation: Plano, TX Must Have skill set:\n• React, React Hooks, TypeScript\nGood to have:\n• React Query/ React Router/ Jest/ React Use/ MSW/Cypress/ Webpack/ Graph QL/Axis",
+    "job_is_remote": false,
+    "job_posted_at_timestamp": 1729626262,
+    "job_posted_at_datetime_utc": "2024-10-22T19:44:22.000Z",
+    "job_city": "Murphy",
+    "job_state": "TX",
+    "job_country": "US",
+    "job_latitude": 33.01512,
+    "job_longitude": -96.61305,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&udm=8#vhid=vt%3D20/docid%3DA-dfzHiYVCRxbmJdAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_offer_expiration_datetime_utc": "2024-11-05T23:44:37.000Z",
+    "job_offer_expiration_timestamp": 1730850277,
+    "job_required_experience": {
+      "no_experience_required": "false",
+      "required_experience_in_months": null,
+      "experience_mentioned": "false",
+      "experience_preferred": "false"
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": false,
+      "degree_mentioned": "false",
+      "degree_preferred": "false",
+      "professional_certification_mentioned": "false"
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": 125,
+    "job_max_salary": 125,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "React, React Hooks, TypeScript",
+        "React Query/ React Router/ Jest/ React Use/ MSW/Cypress/ Webpack/ Graph QL/Axis"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "job_occupational_categories": null,
+    "job_naics_code": null,
+    "job_naics_name": null
+  },
+  {
+    "job_id": "Dl2GwRDR043HmbXMAAAAAA==",
+    "employer_name": "HYR Global Source Inc",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcfAXIo4plVpb6OYTNXelx97yGK6kEOB6kxUEZ&s=0",
+    "employer_website": "http://www.hyrglobalsource.com",
+    "employer_company_type": null,
+    "employer_linkedin": null,
+    "job_publisher": "LinkedIn",
+    "job_employment_type": "CONTRACTOR",
+    "job_title": "UI React Developer (W2 Only, any VISA) || Chicago, IL - Hybrid Onsite",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/ui-react-developer-w2-only-any-visa-chicago-il-hybrid-onsite-at-hyr-global-source-inc-4056008992?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.6489,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/ui-react-developer-w2-only-any-visa-chicago-il-hybrid-onsite-at-hyr-global-source-inc-4056008992?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Hi,\n\nThis is Namrata from HYR Global Source, I'm a staffing specialist and trying to reach you for below position with one of our clients:\n\nRole: UI React Developer\n\nLocation: Chicago, IL - Hybrid (3 days onsite/week)\n\nDuration: 12+ Months Contract + Extension\n\nW2 Only, any VISA...\n\nUI React Developer\n\nThe Senior UI Developer will represent the Digital Collaboration development team and play a key role supporting the development of React based UI applications, frameworks and components.\n• *ALL successful candidates for this position are required to work directly for HYR. No agencies please, Only W2**\n\nContractor’s Role:\n\nYour primary goal for this job role will be designing, implementing, and supporting modern interactive UI solutions developed in JS frameworks such as ReactJS. Besides, you should be able to coordinate with Backend Developers, HTML coders, and Graphic Designers for a complete web development experience. You should be knowledgeable about packing & deploying apps via CI/CD pipelines to a cloud platform.\n\nTo succeed in this job role, you should possess excellent communication skills. You should also have the ability to keep a close eye on details. You should be able to manage multiple projects simultaneously.\n\nExperience Level:\n\n8+ years of experience as a UI/UX Developer or Web Developer\n\nQualifications:\n• Bachelor’s degree in Information Technology, Computer Science or a related field\n• Complete knowledge of programming languages like CSS, HTML and Javascript\n• Knowledge of website design best practices and UI/UX designs\n• Well-versed knowledge in React\n• Experience with state management like Redux, Zustand or similar library\n• Familiarity with JavaScript module loaders and testing tools\n• Familiarity with front-end build tools, such as Webpack and Module Federation\n• Strong analytical skills and Excellent multitasking and organizational skills\n• Ability to work in a team and under pressure\n• Experience working with Cloud platforms such as MS Azure, AWS preferred\n\nTasks and Responsibilities:\n• Using programming languages like HTML/CSS and Javascript frameworks such as ReactJs/AngularJS to create responsive web pages.\n• Creating aesthetically appealing websites along with a friendly user interface design\n• Following established code practices when undertaking user interface development\n• Working closely with Designers and Backend Developers to ascertain client needs\n• Optimizing websites, programs, and applications for better speed and functionality\n• Gathering feedback from clients, technical staff and conducting troubleshooting procedures\n• Developing functional documentation and guidelines for other team members\n• Creating prototypes for testing website functionality\n• Conceptualizing website designs and placements\n• Using analytical tools to determine website performance including website speed, load time, etc.\n\nThanks & Regards\n\nNamrata Ahuja | Sr. Talent Acquisition\n\nlinkedin.com/in/namrata-ahuja-0565b115b\n\nnahuja@hyrglobalsource.com",
+    "job_is_remote": false,
+    "job_posted_at_timestamp": 1729610473,
+    "job_posted_at_datetime_utc": "2024-10-22T15:21:13.000Z",
+    "job_city": "Chicago",
+    "job_state": "IL",
+    "job_country": "US",
+    "job_latitude": 41.878113,
+    "job_longitude": -87.6298,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&udm=8#vhid=vt%3D20/docid%3DDl2GwRDR043HmbXMAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_offer_expiration_datetime_utc": "2024-11-21T15:21:13.000Z",
+    "job_offer_expiration_timestamp": 1732202473,
+    "job_required_experience": {
+      "no_experience_required": "false",
+      "required_experience_in_months": "96",
+      "experience_mentioned": "true",
+      "experience_preferred": "true"
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": "false",
+      "professional_certification": "false",
+      "high_school": "false",
+      "associates_degree": "false",
+      "bachelors_degree": "true",
+      "degree_mentioned": "true",
+      "degree_preferred": "true",
+      "professional_certification_mentioned": "false"
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Besides, you should be able to coordinate with Backend Developers, HTML coders, and Graphic Designers for a complete web development experience",
+        "You should be knowledgeable about packing & deploying apps via CI/CD pipelines to a cloud platform",
+        "To succeed in this job role, you should possess excellent communication skills",
+        "You should also have the ability to keep a close eye on details",
+        "You should be able to manage multiple projects simultaneously",
+        "8+ years of experience as a UI/UX Developer or Web Developer",
+        "Bachelor’s degree in Information Technology, Computer Science or a related field",
+        "Complete knowledge of programming languages like CSS, HTML and Javascript",
+        "Knowledge of website design best practices and UI/UX designs",
+        "Well-versed knowledge in React",
+        "Experience with state management like Redux, Zustand or similar library",
+        "Familiarity with JavaScript module loaders and testing tools",
+        "Familiarity with front-end build tools, such as Webpack and Module Federation",
+        "Strong analytical skills and Excellent multitasking and organizational skills",
+        "Ability to work in a team and under pressure"
+      ],
+      "Responsibilities": [
+        "The Senior UI Developer will represent the Digital Collaboration development team and play a key role supporting the development of React based UI applications, frameworks and components",
+        "Your primary goal for this job role will be designing, implementing, and supporting modern interactive UI solutions developed in JS frameworks such as ReactJS",
+        "Using programming languages like HTML/CSS and Javascript frameworks such as ReactJs/AngularJS to create responsive web pages",
+        "Creating aesthetically appealing websites along with a friendly user interface design",
+        "Following established code practices when undertaking user interface development",
+        "Working closely with Designers and Backend Developers to ascertain client needs",
+        "Optimizing websites, programs, and applications for better speed and functionality",
+        "Gathering feedback from clients, technical staff and conducting troubleshooting procedures",
+        "Developing functional documentation and guidelines for other team members",
+        "Creating prototypes for testing website functionality",
+        "Conceptualizing website designs and placements",
+        "Using analytical tools to determine website performance including website speed, load time, etc"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "job_occupational_categories": null,
+    "job_naics_code": null,
+    "job_naics_name": null
+  },
+  {
+    "job_id": "4FjE2MNo8UF_SFjtAAAAAA==",
+    "employer_name": "Upwork",
+    "employer_logo": null,
+    "employer_website": null,
+    "employer_company_type": null,
+    "employer_linkedin": null,
+    "job_publisher": "Upwork",
+    "job_employment_type": "CONTRACTOR",
+    "job_title": "Front End React Developer for UI Component Development",
+    "job_apply_link": "https://www.upwork.com/freelance-jobs/apply/Front-End-React-Developer-for-Component-Development_~021848580234371023697/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "job_apply_quality_score": 0.6859,
+    "apply_options": [
+      {
+        "publisher": "Upwork",
+        "apply_link": "https://www.upwork.com/freelance-jobs/apply/Front-End-React-Developer-for-Component-Development_~021848580234371023697/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Rise AI Job Search | Tech Startup Jobs, Remote Jobs Hiring Now",
+        "apply_link": "https://app.joinrise.co/jobs/xoriant-looking-for-react-ui-developer-9yg3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "React Jobs",
+        "apply_link": "https://reactjsjob.com/job/2nnjxNSaeGSLfkEHgX1ZMdZ6zKD/UI%20React%20Developer%20(W2%20Only,%20any%20VISA)%20%7C%7C%20Chicago,?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-web-ui-developer-react-new-york-united-states-ion-hiring-now-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "We are seeking a skilled Front End React Developer to assist in building high-quality UI components for our web applications. The ideal candidate will have experience in creating responsive designs and optimizing performance for various devices. Your responsibilities will include collaborating with our design team to transform wireframes into interactive features while ensuring code quality and maintainability. If you are passionate about front-end development and have a strong understanding of React, we would love to hear from you!",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1729570847,
+    "job_posted_at_datetime_utc": "2024-10-22T04:20:47.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 38.794594,
+    "job_longitude": -106.534836,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&udm=8#vhid=vt%3D20/docid%3D4FjE2MNo8UF_SFjtAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_offer_expiration_datetime_utc": null,
+    "job_offer_expiration_timestamp": null,
+    "job_required_experience": {
+      "no_experience_required": "false",
+      "required_experience_in_months": null,
+      "experience_mentioned": "true",
+      "experience_preferred": "false"
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": false,
+      "degree_mentioned": "false",
+      "degree_preferred": "false",
+      "professional_certification_mentioned": "false"
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Responsibilities": [
+        "Your responsibilities will include collaborating with our design team to transform wireframes into interactive features while ensuring code quality and maintainability"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "job_occupational_categories": null,
+    "job_naics_code": null,
+    "job_naics_name": null
+  }
+]
